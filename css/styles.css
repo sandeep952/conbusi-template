@@ -1,3 +1,4 @@
+
 .banner{
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("../images/banner.png");
     height: 90vh;
@@ -21,6 +22,24 @@
 .round{
     border-radius: 50px;
     display: block;
-    padding:10px 20px;
+    padding:10px 30px;
     margin:2px;
+}
+
+.about-us-heading{
+margin: 100px 0px;
+}
+
+.myCard{
+    border: gray solid 1px;
+    padding: 10px;
+    margin: 15px;
+}
+
+.myCard h2{
+    padding: 0px 5px;
+}
+
+.why-us{
+    margin: 100px 0px;
 }
