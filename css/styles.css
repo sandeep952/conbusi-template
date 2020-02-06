@@ -1,0 +1,26 @@
+.banner{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("../images/banner.png");
+    height: 90vh;
+    
+
+}
+#navbarContent li{
+    padding: 10px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:white;
+    font-weight: bold;
+}
+
+.banner-text{
+   text-transform: capitalize;
+   padding:45vh 0;
+
+}
+
+.round{
+    border-radius: 50px;
+    display: block;
+    padding:10px 20px;
+    margin:2px;
+}
