@@ -15,7 +15,8 @@
 
 .banner-text{
    text-transform: capitalize;
-   padding:45vh 0;
+   background: transparent;
+   padding :12rem 2rem;
 
 }
 
@@ -31,14 +32,9 @@ margin: 100px 0px;
 }
 
 .myCard{
-    border: gray solid 1px;
-    padding: 10px;
     margin: 15px;
 }
 
-.myCard h2{
-    padding: 0px 5px;
-}
 
 .why-us{
     margin: 200px 0px;
