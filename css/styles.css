@@ -79,3 +79,40 @@
 .call-us-text {
     background: transparent;
 }
+
+.footer {
+    margin-top: 150px;
+}
+
+.footer-heading {
+    font-size: large;
+    font-weight: light;
+    color: rgb(90, 88, 88);
+    margin-bottom: 50px;
+}
+
+.footer,
+.footer a {
+    color: gray;
+}
+
+.no-border {
+    border: 0;
+}
+
+.gray-border {
+    border: 1px solid gray;
+    border-radius: 50px;
+    padding: 1px 20px;
+}
+
+.subscribe-btn {
+    border-radius: 50px;
+    font-size: small;
+    padding: 10px 8px;
+}
+
+.subscribe-input {
+    font-size: small;
+    padding: 10px 0px;
+}
