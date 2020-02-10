@@ -6,6 +6,37 @@
     background-repeat: no-repeat;
 }
 
+.search {
+    background: lightskyblue;
+}
+
+.idea {
+    background: green;
+}
+
+.finance {
+    background: orange;
+}
+
+.food {
+    background: skyblue;
+}
+
+.travel {
+    background: purple;
+}
+
+.bussiness {
+    background: red;
+}
+
+.icon {
+    color: white;
+    padding: 85px;
+    margin: 10px 0px;
+    border-radius: 50%;
+}
+
 #navbarContent li {
     padding: 10px;
 }
